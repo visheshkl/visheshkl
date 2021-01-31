@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkl&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkl" /> </p>
 
-💬 Ask me about **ReactJS, Next, NodeJs, Express.**
+💬 Ask me about **JavaScript, ReactJS, Node, Express, PostgreSQL.**
 
 📫 How to reach me **visheshkkl@gmail.com**
 
