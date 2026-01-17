@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Vishesh Khandelwal</h1>
-<h3 align="center">I have completed my Bachelors and Masters in Infromation Techology IIIT Gwalior, India in 2022. <br>I am working as a Software Engineer @PayU since last 4 years.</h3>
+<h3 align="center">I have completed my Bachelors and Masters in Information Techology IIIT Gwalior, India in 2022. <br>I am working as a Software Engineer @PayU since last 4 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkl&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkl" /> </p>
 
