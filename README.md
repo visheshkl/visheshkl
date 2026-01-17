@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I am Vishesh Khandelwal</h1>
-<h3 align="center">A passionate Full Stack Developer currently studying Information Technology at IIIT Gwalior, India. <br>I am working as a Software Engineering Intern @PayU.</h3>
+<h3 align="center">A passionate Full Stack Developer from Information Technology at IIIT Gwalior, India. <br>I am working as a Software Engineer @PayU since last 4 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkl&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkl" /> </p>
 
 💬 Ask me about **JavaScript, ReactJS, NextJS, Node, Express, PostgreSQL.**
 
-💻 Currently working on my [Portfolio](https://visheshkkl.tech/)
+📫 How to reach me **visheshkkl0@gmail.com**
 
-📫 How to reach me **visheshkkl@gmail.com**
-
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1102kQm4V_qeDbL9CLhYj1KUd7yyQmji0/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kpTFpIb1uTfbdy6pb3AlNmKng6Jmi4yV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
